@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FluentMvcTesting.Extensions</id>
+    <version>1.0.4</version>
+    <authors>Agustin Camino</authors>
+    <owners>Agustin Camino</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>XML extensions for fluent unit testing of ASP.NET MVC Controllers</description>
+    <releaseNotes>
+      Include controller properties mock utility to make it easier to test controllers that use URL helper methods.
+    </releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>FluentMvcTesting Testing XML</tags>
+  </metadata>
+</package>
