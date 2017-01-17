@@ -1,5 +1,7 @@
 # FluentMVCTesting.Extensions
 
+[![NuGet version](https://badge.fury.io/nu/FluentMvcTesting.Extensions.svg)](https://badge.fury.io/nu/FluentMvcTesting.Extensions)
+
 This library provides XML extensions for fluent unit testing of ASP.NET MVC Controllers.
 
 ## How to use it
